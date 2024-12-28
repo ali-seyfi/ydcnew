@@ -25,6 +25,7 @@ defineProps({
 
     <div class="p-8">
         <h1 class="font-bold text-3xl text-center">This is just a test title!</h1>
+        <h2 class="font-bold text-2xl text-center"> Just added a secondary title for some tests </h2>
         <hr class="my-4">
         <section class="flex justify-around">
             <div>
